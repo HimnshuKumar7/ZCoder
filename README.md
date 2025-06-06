@@ -1,49 +1,44 @@
 # ZCoder
 
-ZCoder is a platform for developers to create and manage their coding profiles, track competitive programming ratings, save and share coding problems, and stay updated with upcoming coding contests. Users can save their favorite coding problems, mark them as public or private, and engage with the community by commenting on public problems.
+**ZCoder** is an interactive platform built for developers to manage coding profiles, track competitive programming performance, and engage with a vibrant coding community. Users can save their favorite problems, choose to keep them private or public, comment on shared problems, and stay informed about upcoming contests through an integrated calendar.
 
-## Live Hosted Link
-Check out ZCoder live at: https://zcoder-client.vercel.app/
+---
 
-## Features
+## 🚀 Features
 
-ZCoder allows users to:
-- Create profiles to save personal information like tech stack and competitive programming ratings.
-- Save coding problems with question statements and answers, with the option to mark them as public or private.
-- View and comment on public coding problems shared by other users.
-- Track and display a contest calendar for future coding contests.
-- Access a feed displaying top public coding problems from the community.
+ZCoder offers the following core functionalities:
 
-## Tech Stack
+- 🧑‍💻 Create and manage developer profiles, showcasing skills and competitive programming ratings.
+- 📝 Save coding problems along with solutions and set them as **public** or **private**.
+- 🌍 View and comment on public coding problems shared by other users.
+- 📅 Access a live contest calendar to track upcoming programming competitions.
+- 🔥 Explore a community feed with top-rated public problems from developers.
 
-- **Frontend:** React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB 
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
 - **Styling:** CSS
 
-## Getting Started
+---
 
-### Prerequisites
+## 📦 Getting Started
 
-- Node.js
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js  
 - npm (Node Package Manager)
 
-### Installation
+---
 
-1. Clone the repository:
+### ⚙️ Installation
 
-   ```sh
-   git clone https://github.com/MANSI-0607/zcoder_.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/RajGauravTiwari/ZCODER.git
    cd zcoder
-2. Install the dependencies:
-   ```sh
-   npm install
-3. Start the development server:
-    ```sh
-    //To start the frontend:
-    cd zcoder
-    npm start
-    //To start the backend :open a new terminal
-    cd server
-    npm start
-  
